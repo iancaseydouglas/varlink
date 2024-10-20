@@ -26,8 +26,8 @@ Flags:
   -dry-run
         Show what would be done without making changes
 ```
-## Assumed directory structure
-
+## Assumed directory structure for the examples
+```
 ├── environments
 │   ├── dev
 │   │   ├── dev.tfvars
@@ -44,21 +44,8 @@ Flags:
 │       ├── main.tf
 │       └── prod.tfvars
 ├── global.tfvars
-
-## Building
-
-TODO
-
-```
 ```
 
-## Testing
-
-TODO
-
-
-```
-```
 
 
 ```
